@@ -1,0 +1,4 @@
+labelimg/
+venv_tensorflow/
+venv_yolo/
+yolov8n.pt
